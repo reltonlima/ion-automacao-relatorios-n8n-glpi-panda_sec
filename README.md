@@ -50,8 +50,5 @@ Os dados brutos são processados via **JavaScript** para:
 4. Execute o trigger de teste (Manual Trigger).
 
 ---
-*Desenvolvido durante o Programa de Residência de Desenvolvimento - 2026*
+*Desenvolvido durante o Programa de Residência do Bolsa Futuro Digital - Aponti - 2026*
 """
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
