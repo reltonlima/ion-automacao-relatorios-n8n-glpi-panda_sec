@@ -47,11 +47,16 @@ Todo o progresso, configurações de `docker-compose.yml`, templates de relatór
 * **Objetivo:** Garantir que todos os desenvolvedores da equipe tenham acesso ao histórico de decisões, facilitando o hand-off e a manutenção futura.
 * **Documentação:** O arquivo `README.md` do repositório serve como guia de onboarding para novos membros da equipe.
 
+### Documentação do Ambiente de Produção e Replicação
+Além da documentação do ambiente de desenvolvimento, houve também a necessidade de registrar o ambiente de produção já existente no cliente, considerando sua arquitetura, serviços e dependências. Esse levantamento foi importante para garantir aderência técnica e reduzir riscos durante a implantação.
+* **Objetivo:** Mapear o ambiente produtivo real do cliente antes das alterações, preservando a consistência entre os cenários.
+* **Replicação:** Também foi dedicado tempo à replicação dos ambientes e dos dados necessários para testes, validação de integrações e comparação de comportamento entre produção e homologação.
+
 ## 5. Próximos Passos
 1. Finalizar o nó de transformação de dados (JS) no n8n.
 2. Iniciar os testes de geração de PDF com os gráficos de chamados.
 3. Validar o fluxo de envio de e-mail com anexo de Notas Fiscais.
-
+4. Validar informação de envio de SMTP com o domínio do cliente.
 ---
 *Este documento reflete o estágio atual de estudo e implementação técnica da residência.*
 """
