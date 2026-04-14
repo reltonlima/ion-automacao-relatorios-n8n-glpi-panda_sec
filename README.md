@@ -1,7 +1,7 @@
 # Residencia Aponti PE/GO - automacao- glpi - panda - n8n
-from datetime import datetime
-
-content = """# Sistema de Automação de Relatórios (GLPI & Panda Security)
+```shell
+Sistema de Automação de Relatórios (GLPI & Panda Security)
+```
 
 Este projeto faz parte do programa de residência de desenvolvimento e visa automatizar a coleta, processamento e envio de relatórios de suporte e segurança para clientes finais utilizando **n8n** como orquestrador.
 
