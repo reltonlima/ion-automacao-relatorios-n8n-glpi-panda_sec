@@ -1,7 +1,5 @@
-import os
-
 # Conteúdo do Relatório de Estudo de Implantação
-relatorio_content = """# Relatório de Estudo de Implantação: Automação de Relatórios Gerenciais
+## Relatório de Estudo de Implantação: Automação de Relatórios Gerenciais
 **Projeto:** Integração GLPI + Panda Security + n8n
 **Responsável:** Relton Fidelis Ferreira Lima
 **Data de Início:** 01 de Abril de 2026
